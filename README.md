@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nousher Murtaza and I'm a Flutter Developer from Islamabad 🇵🇰</h2>
+<h2 align="left">Hi 👋! My name is Nousher Murtaza<br> I'm a Flutter Developer from Islamabad 🇵🇰</h2>
 
 ###
 
