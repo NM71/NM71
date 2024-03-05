@@ -1,4 +1,16 @@
-<h2 align="left">Hi 👋!<br> I'm Nousher<br> A Flutter Developer 🧑‍💻 from Islamabad, Pakistan </h2>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Nousher and I'm a Flutter developer, from :pakistan: <img src="https://www.flaticon.com/free-icon/pakistan_323352" width="17" data-canonical-src="https://cdn-icons-png.flaticon.com/128/197/197484.png" style="max-width: 100%;"> Islamabad, Pakistan</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -9,7 +21,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -40,5 +52,7 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
