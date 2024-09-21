@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Nousher and I'm a Software Engineer, from :pakistan: Islamabad, Pakistan</p>
+<p align="left">I'm a Flutter Developer, from :pakistan: Islamabad, Pakistan</p>
 
 ###
 
