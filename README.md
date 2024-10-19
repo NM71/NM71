@@ -9,9 +9,9 @@
 <h2 align="left">About me</h2>
 
 ###
-
+![5TMy](https://github.com/user-attachments/assets/1ced0abc-7c59-4cba-8b8d-e1264e3d22a1)
 <p align="left">
-    <img align="right" height="150" src="[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQ0bDUzaWxtMWQwaXNjeno4dnp1OTA1YTBmMm8wODF6dDVhcmt6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif)"  />
+    <img align="right" height="150" src=""  />
   ✨ Creating bugs since 2020<br>📚 I'm a Software Engineer making a mark in Application Development<br>🎯 Goals: To live a peaceful life...<br>🎲 Fun fact: And ... i play cricket 🏏 and sing 🎤 sometime</p>
 
 
