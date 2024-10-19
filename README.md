@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-    <img align="right" height="150" src="![5TMy](https://github.com/user-attachments/assets/1ced0abc-7c59-4cba-8b8d-e1264e3d22a1)"  />
+    ![5TMy](https://github.com/user-attachments/assets/1ced0abc-7c59-4cba-8b8d-e1264e3d22a1)
   ✨ Creating bugs since 2020<br>📚 I'm a Software Engineer making a mark in Application Development<br>🎯 Goals: To live a peaceful life...<br>🎲 Fun fact: And ... i play cricket 🏏 and sing 🎤 sometime</p>
 
 
