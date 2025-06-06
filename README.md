@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1ced0abc-7c59-4cba-8b8d-e1264e3d22a1" width="400" alt="Flutter Dev"/>
+  <img src="https://github.com/user-attachments/assets/1ced0abc-7c59-4cba-8b8d-e1264e3d22a1" width="300" alt="Flutter Dev"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm71&layout=compact&theme=radical" width="300" alt="Top Languages"/>
 </p>
