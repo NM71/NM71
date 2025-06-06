@@ -6,10 +6,6 @@
   📍 Based in Islamabad, Pakistan
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nm71&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nm71&layout=compact&theme=radical)
-
-
 ---
 
 ### 🚀 Portfolio & Resources
@@ -22,6 +18,7 @@
 ### 👨‍💻 About Me
 
 ![Flutter Dev](https://github.com/user-attachments/assets/1ced0abc-7c59-4cba-8b8d-e1264e3d22a1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nm71&layout=compact&theme=radical)
 
 ```txt
 ✨ Creating bugs since 2020...
