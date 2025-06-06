@@ -66,13 +66,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🐦 [Twitter / X](https://twitter.com/your-handle)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nousher-murtaza-6723512b8/))
+- 🐦 [Twitter / X](https://twitter.com/)
 - 📬 Drop me a message anytime — collaboration or cricket talk welcome!
 
 ---
-
-<p align="center">
-  💙 Made with Flutter & Passion<br>
-  © 2025 <strong>@nm71</strong> — All rights reserved
-</p>
