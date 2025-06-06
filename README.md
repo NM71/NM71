@@ -6,6 +6,10 @@
   📍 Based in Islamabad, Pakistan
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nm71&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nm71&layout=compact&theme=radical)
+
+
 ---
 
 ### 🚀 Portfolio & Resources
