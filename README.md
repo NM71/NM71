@@ -70,7 +70,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nousher-murtaza-6723512b8/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/nousher-murtaza-6723512b8/)
 - 🐦 [Twitter / X](https://twitter.com/)
 - 📬 Drop me a message anytime — collaboration or cricket talk welcome!
 
