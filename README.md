@@ -1,64 +1,78 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey there 👋, I'm a Flutter Developer from Islamabad, Pakistan 🇵🇰</h1>
 
-###
+<p align="center">
+  🚀 Passionate about building modern, beautiful mobile apps<br>
+  💻 Flutter craftsman | 🎨 UI Enthusiast | 🔧 Debugging wizard<br>
+  📍 Based in Islamabad, Pakistan
+</p>
 
-<p align="left">I'm a Flutter Developer, from :pakistan: Islamabad, Pakistan</p>
+---
 
-My [Portfolio](https://nm71.github.io/Portfolio/)
-<br><br>
-Visit to learn: [Flutter Dev Learning Hub](https://nm71.github.io/flutter_learning_hub/)
-###
+### 🚀 Portfolio & Resources
 
-<h2 align="left">About me</h2>
+- 🌐 [**Visit My Portfolio**](https://nm71.github.io/Portfolio/)
+- 📚 [**Flutter Dev Learning Hub**](https://nm71.github.io/flutter_learning_hub/) — Curated guides, tips & resources!
 
-###
+---
 
-![5TMy](https://github.com/user-attachments/assets/1ced0abc-7c59-4cba-8b8d-e1264e3d22a1)
+### 👨‍💻 About Me
 
-<p align="left">
-  ✨ Creating bugs since 2020<br>📚 I'm a Software Engineer making a mark in Application Development<br>🎯 Goals: To live a peaceful life...<br>🎲 Fun fact: And ... i play cricket 🏏 and sing 🎤 sometime</p>
+![Flutter Dev](https://github.com/user-attachments/assets/1ced0abc-7c59-4cba-8b8d-e1264e3d22a1)
 
+```txt
+✨ Creating bugs since 2020...
+🧑‍🎓 Software Engineer with a passion for Application Development
+🎯 Goal: Live a peaceful, purpose-driven life
+🏏 I play cricket, and sometimes... I sing too 🎤
+```
 
+---
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.icons8.com/color/48/flutter.png" height="30" alt="flutter"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-
-###
-
-<h2 align="left">Databases I Use</h2>
-
-###
+### 🛠️ I Code With
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="30"/>
+  <img src="https://img.icons8.com/color/48/flutter.png" height="30" alt="Flutter"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
 </div>
 
+---
 
+### 🗃️ Databases & Backend Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP"/>
+</div>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 🐦 [Twitter / X](https://twitter.com/your-handle)
+- 📬 Drop me a message anytime — collaboration or cricket talk welcome!
+
+---
+
+<p align="center">
+  💙 Made with Flutter & Passion<br>
+  © 2025 <strong>@nm71</strong> — All rights reserved
+</p>
