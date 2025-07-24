@@ -66,14 +66,9 @@ const nousher = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nm71&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm71&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nm71&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
@@ -120,16 +115,16 @@ const nousher = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nousher-murtaza-6723512b8/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noushermurtaza456@gmail.com)
 
 </div>
 
 ### 💬 I'm always excited to discuss:
 - 🚀 **Flutter & Mobile Development**
-- 🎨 **UI/UX Design Trends**
-- 🏏 **Cricket** (Pakistan Zindabad!)
-- 🎵 **Music & Singing**
 - 💡 **Tech Innovation & Collaboration**
+- 🎨 **UI/UX Design Trends**
+- 🏏 **Cricket**
+- 🎵 **Music & Singing**
 
 ---
 
