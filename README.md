@@ -74,22 +74,6 @@ const nousher = {
 
 ---
 
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nm71&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-- 🚀 **Creating bugs since 2020** (and fixing them too!)
-- 🎓 **Software Engineer** with passion for mobile development
-- 🏏 **Cricket enthusiast** - Code by day, cricket by evening
-- 🎤 **Part-time singer** - Debugging code and hitting high notes
-- 🎯 **Mission**: Live a peaceful, purpose-driven life through technology
-
----
-
 ## 🌟 Featured Projects & Resources
 
 <div align="center">
@@ -118,19 +102,6 @@ const nousher = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noushermurtaza456@gmail.com)
 
 </div>
-
-### 💬 I'm always excited to discuss:
-- 🚀 **Flutter & Mobile Development**
-- 💡 **Tech Innovation & Collaboration**
-- 🎨 **UI/UX Design Trends**
-- 🏏 **Cricket**
-- 🎵 **Music & Singing**
-
----
-
-## 📈 Activity Graph
-
-[![Nousher's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nm71&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
