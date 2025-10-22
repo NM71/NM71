@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Flutter+Developer+from+Islamabad+🇵🇰;Building+Beautiful+Mobile+Experiences;UI+Enthusiast+%26+Code+Craftsman;Always+Learning%2C+Always+Growing)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Mobile+App+Developer+from+Islamabad+🇵🇰;Building+Beautiful+Cross-Platform+Apps;Flutter+%2B+React+Native+Enthusiast;UI+Craftsman+%26+Code+Lover;Always+Learning%2C+Always+Growing)
 
 </div>
 
@@ -17,20 +17,20 @@
 ```typescript
 const nousher = {
     location: "Islamabad, Pakistan 🇵🇰",
-    role: "Flutter Developer & Mobile App Enthusiast",
-    code: ["Dart", "Flutter", "Python", "JavaScript", "C#"],
-    askMeAbout: ["flutter", "mobile dev", "UI/UX", "cricket", "music"],
+    role: "Mobile App Developer (Flutter & React Native)",
+    code: ["Dart", "Flutter", "React Native", "JavaScript", "Python", "C#"],
+    askMeAbout: ["mobile dev", "flutter", "react native", "UI/UX", "cricket", "music"],
     technologies: {
-        mobile: ["Flutter", "Dart"],
+        mobile: ["Flutter", "React Native"],
         frontend: ["React", "HTML5", "CSS3", "JavaScript"],
         backend: ["Firebase", "PHP"],
         databases: ["MySQL", "SQLite", "Firestore"],
-        tools: ["Git", "VS Code", "Android Studio"]
+        tools: ["Git", "VS Code", "Android Studio", "Xcode"]
     },
-    currentGoal: "Building innovative mobile solutions that make a difference",
+    currentGoal: "Building innovative cross-platform mobile solutions that make a difference",
     funFact: "I debug code and bowl cricket balls with equal precision! 🏏"
 };
-```
+
 
 ---
 
