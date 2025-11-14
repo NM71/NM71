@@ -30,7 +30,7 @@ const nousher = {
     currentGoal: "Building innovative cross-platform mobile solutions that make a difference",
     funFact: "I debug code and bowl cricket balls with equal precision! 🏏"
 };
-
+```
 
 ---
 
@@ -67,8 +67,6 @@ const nousher = {
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm71&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
 
 </div>
 
